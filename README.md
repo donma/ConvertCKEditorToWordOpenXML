@@ -3,7 +3,7 @@
 </p>
 
 <p>
-reference:
+Reference: <br />
 Html to Open XML (http://html2openxml.codeplex.com/) <br />
 Open XML SDK 2.0 for Microsoft Office (http://www.microsoft.com/en-us/download/details.aspx?id=5124) <br />
 CKEditor (http://ckeditor.com/) <br />
