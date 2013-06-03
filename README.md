@@ -10,7 +10,7 @@ CKEditor (http://ckeditor.com/) <br />
 </p>
 <p>
 Snapshot:
-<img src='http://lh4.ggpht.com/-ZjYBfYfkB5I/Uawm06kYwcI/AAAAAAAAFBU/Adrr0ciCjTo/2013-06-03_125553_thumb%25255B1%25255D.jpg' />
+<img src='http://lh6.ggpht.com/-ib0X5kMl1Qo/Uawm2t6fweI/AAAAAAAAFBk/glwHlc5tmx8/2013-06-03_125624_thumb%25255B1%25255D.jpg?imgmax=800' />
 </p>
 
 <p>
